@@ -1,5 +1,6 @@
 const express = require('express');
 const app = express();
+const PORT = process.env.PORT;
 const logger = require('morgan');
 const bodyParser = require('body-parser');
 
@@ -15,7 +16,7 @@ app.use('/api',apiRouter);
 
 
 
-app.listen(3000, function() {
+app.listen(PORT, function() {
     console.log("start! express server on port 3000")
 })
 
