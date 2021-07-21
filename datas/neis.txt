@@ -1,0 +1,5 @@
+인증키 : 0b48f745c3df4ec6b3c73eb7db852aa9
+시도교육청 코드 : J10
+갈매고등학교  코드: 7531270
+
+https://open.neis.go.kr/hub/SchoolSchedule?KEY=0b48f745c3df4ec6b3c73eb7db852aa9&Type=json&ATPT_OFCDC_SC_CODE=J10&SD_SCHUL_CODE=7531270&AA_YMD=20210715
